@@ -2,7 +2,8 @@
   {
     "backcolor": "#303030",
     "name": "ArminC AutoExec Binds",
-    "author": "ArminC"
+    "author": "ArminC",
+    "css": "/* Custom Google Font */\n@import url('https://fonts.googleapis.com/css?family=Arvo|Baloo+Tamma');\n\n/* Key Cap Parts */\n.keylabel0, .keylabel1, .keylabel2, \n.keylabel3, .keylabel4, .keylabel5, \n.keylabel6, .keylabel7, .keylabel8, \n.keylabel9, .keylabel10, .keylabel11 { \n    font-family: 'Baloo Tamma', cursive;\n}\n\n/* Key Edge Color */\n.keyborder {\n    background-color: transparent !important;\n}\n\n/* Adjust KeyTop height */\n.keytop[style*=\"height: 42px;\"] { \n    height: 38px !important; \n}\n.keytop[style*=\"height: 96px;\"] { \n    height: 92px !important; /* >1u keys */\n}\n\n/* Adjust FrontKey color and font placement  */\n.keylabel9, .keylabel10, .keylabel11 { \n    color: #ffffff !important;\n    margin-top: -3px; /* default: -1px */\n}\n\n/* Adjust background-image (homing) */\n.keylabels {\n  background-position: center 63%; /* default: 90% */\n}"
   },
   [
     {
@@ -135,17 +136,41 @@
     },
     "\n\n\n\nInsert",
     "\n\n\n\nHome",
-    "\n\n\n\nPgUp",
     {
-      "x": 0.25
+      "c": "#FDD835",
+      "t": "#212121",
+      "a": 5,
+      "fa": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "Revert\n\n\n\nPgUp\n\nVolume",
+    {
+      "x": 0.25,
+      "c": "#ffffff",
+      "t": "#ffffff",
+      "a": 7
     },
     "\n\n\n\nN.Lock",
     {
       "c": "#66BB6A",
-      "t": "#212121\n\n\n\n#ffffff"
+      "t": "#212121\n\n\n\n#ffffff",
+      "f": 3
     },
     "HE\n\n\n\n/",
+    {
+      "f": 3
+    },
     "Flash\n\n\n\n*",
+    {
+      "f": 3
+    },
     "Smoke\n\n\n\n-"
   ],
   [
@@ -153,6 +178,7 @@
       "c": "#EC407A",
       "t": "#212121",
       "a": 5,
+      "f": 3,
       "w": 1.5
     },
     "Scoreboard\nFPS\n\n\nTab <i class='kb kb-Tab-1'></i>\n\nTablet",
@@ -169,7 +195,7 @@
       ],
       "n": true
     },
-    "Quick\n{HE}\n\n\nQ\n\nSwitch",
+    "Quick\n{HE}\n\n\nQ\n\nswitch",
     {
       "c": "#03A9F4",
       "a": 7,
@@ -191,15 +217,13 @@
       ],
       "n": true
     },
-    "Interact\n{Flash}\n\n\nE\n\n-Beep-",
-    {
-      "c": "#03A9F4",
-      "a": 7
-    },
-    "Reload\n\n\n\nR",
+    "Interact\n{Flash}\n\n\nE\n\n(Beep)",
     {
       "c": "#FDD835",
-      "a": 5,
+      "f": 2
+    },
+    "Reload\ndecals)\n\n\nR\n\n(Clear",
+    {
       "f": 2
     },
     "Voice\n\n\n\nT\n\n(Comm.)",
@@ -237,7 +261,21 @@
     },
     "\n\n\n\nDelete",
     "\n\n\n\nEnd",
-    "\n\n\n\nPgDn",
+    {
+      "c": "#FDD835",
+      "t": "#212121",
+      "a": 5,
+      "fa": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "Disable\n\n\n\nPgDn\n\nVolume",
     {
       "x": 0.25,
       "c": "#66BB6A",
@@ -284,12 +322,7 @@
       "a": 5,
       "fa": [
         2,
-        2,
-        0,
-        0,
-        0,
-        0,
-        0
+        2
       ],
       "n": true
     },
@@ -361,28 +394,34 @@
     },
     "Walk\n\n\n\n⇧ Shift",
     "Radio 1\n\n\n\nZ",
-    "Radio 2\n\n\n\nX",
     {
       "c": "#FF7043",
       "a": 5,
+      "fa": [
+        2,
+        2
+      ],
+      "n": true
+    },
+    "Radio 2\n{health}\n\n\nX",
+    {
       "f": 2,
+      "n": true
+    },
+    "Radio 3\n{Inc.}\n\n\nC",
+    {
+      "c": "#EC407A",
       "fa": [
         0,
-        1,
+        0,
         0,
         0,
         0,
         0,
         1
-      ],
-      "n": true
+      ]
     },
-    "Radio 3\n{Molotov}\n\n\nC\n\n{Inc.}",
-    {
-      "f2": 0,
-      "n": true
-    },
-    "Net\n{health}\n\n\nV\n\nGraph",
+    "Nade\n\n\n\nV\n\ncrosshair",
     {
       "c": "#03A9F4",
       "f": 3
@@ -488,16 +527,15 @@
     },
     "\n*1*\n\n\nSpace\n\nJump",
     {
-      "c": "#EC407A",
-      "f": 3,
+      "c": "#ffffff",
+      "t": "#ffffff",
+      "a": 7,
       "w": 1.25
     },
-    "Nade\n\n\n\nAlt\n\ncrosshair",
+    "\n\n\n\nAlt",
     {
       "c": "#B71C1C",
-      "t": "#ffffff",
       "p": "R4",
-      "a": 7,
       "w": 1.25
     },
     "\n\n\n\n<i class='fa fa-windows'></i>",
@@ -506,15 +544,16 @@
     },
     "\n\n\n\n<i class='kb kb-Hamburger-Menu'></i>",
     {
-      "c": "#FDD835",
+      "c": "#EC407A",
       "t": "#212121",
       "a": 5,
       "f": 3,
       "w": 1.25
     },
-    "Clear\n\n\n\nCtrl\n\ndecals",
+    "Net\n\n\n\nCtrl\n\ngraph",
     {
       "x": 0.25,
+      "c": "#FDD835",
       "f": 3
     },
     "Rotate\nleft\n\n\n←\n\nto",
