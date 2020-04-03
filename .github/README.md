@@ -5,7 +5,6 @@ Custom gaming keyboard preset with binds for [Keyboard Layout Editor](http://www
 ## Context
 |  Editor menu  | Extension |
 |:------------- | --------- |
-| Custom Styles | .css      |
 | Raw data      | .json     |
 
 ## License
