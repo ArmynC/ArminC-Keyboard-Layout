@@ -23,12 +23,14 @@
     "Ignore\n\n\n\nF3\n\nmsg.",
     "Ignore\n\n\n\nF4\n\nradio",
     {
-      "x": 0.5,
+      "x": 0.5
+    },
+    "Net\n\n\n\nF5\n\ngraph",
+    {
       "c": "#ffffff",
       "t": "#ffffff",
       "a": 7
     },
-    "\n\n\n\nF5",
     "\n\n\n\nF6",
     "\n\n\n\nF7",
     "\n\n\n\nF8",
@@ -150,7 +152,7 @@
         2
       ]
     },
-    "Revert\n\n\n\nPgUp\n\nVolume",
+    "Revert\n\n\n\nPgUp\n\nsound",
     {
       "x": 0.25,
       "c": "#ffffff",
@@ -275,7 +277,7 @@
         2
       ]
     },
-    "Disable\n\n\n\nPgDn\n\nVolume",
+    "Mute\n\n\n\nPgDn\n\nsound",
     {
       "x": 0.25,
       "c": "#66BB6A",
@@ -544,16 +546,15 @@
     },
     "\n\n\n\n<i class='kb kb-Hamburger-Menu'></i>",
     {
-      "c": "#EC407A",
-      "t": "#212121",
-      "a": 5,
-      "f": 3,
+      "c": "#ffffff",
       "w": 1.25
     },
-    "Net\n\n\n\nCtrl\n\ngraph",
+    "\n\n\n\nCtrl",
     {
       "x": 0.25,
       "c": "#FDD835",
+      "t": "#212121",
+      "a": 5,
       "f": 3
     },
     "Rotate\nleft\n\n\n←\n\nto",
@@ -600,7 +601,7 @@
       "h": 2,
       "d": true
     },
-    "<p><i class='fa fa-graduation-cap'></i> To use <strong>second keys</strong>, hold <strong>left ALT</strong> button and press the desired key, marked with <strong>orange</strong> and <b>homing</b> texture.</p>",
+    "<p><i class='fa fa-graduation-cap'></i> To use the <strong>second keys</strong>, hold <strong>left ALT</strong> or <strong>MOUSE4</strong> button and press at the same time the desired key, marked with <strong>orange</strong> and <b>homing</b> texture.</p>",
     {
       "x": 1.5,
       "f": 3,
