@@ -3,7 +3,8 @@
     "backcolor": "#303030",
     "name": "ArminC AutoExec Binds",
     "author": "ArminC",
-    "css": "/* Custom Google Font */\n@import url('https://fonts.googleapis.com/css?family=Arvo|Baloo+Tamma');\n\n/* Key Cap Parts */\n.keylabel0, .keylabel1, .keylabel2, \n.keylabel3, .keylabel4, .keylabel5, \n.keylabel6, .keylabel7, .keylabel8, \n.keylabel9, .keylabel10, .keylabel11 { \n    font-family: 'Baloo Tamma', cursive;\n}\n\n/* Key Edge Color */\n.keyborder {\n    background-color: transparent !important;\n}\n\n/* Adjust KeyTop height */\n.keytop[style*=\"height: 42px;\"] { \n    height: 38px !important; \n}\n.keytop[style*=\"height: 96px;\"] { \n    height: 92px !important; /* >1u keys */\n}\n\n/* Adjust FrontKey color and font placement  */\n.keylabel9, .keylabel10, .keylabel11 { \n    color: #ffffff !important;\n    margin-top: -3px; /* default: -1px */\n}\n\n/* Adjust background-image (homing) */\n.keylabels {\n  background-position: center 63%; /* default: 90% */\n}"
+    "css": "/* Custom Google Font */\n@import url('https://fonts.googleapis.com/css?family=Arvo|Baloo+Tamma');\n\n/* Key Cap Parts */\n.keylabel0, .keylabel1, .keylabel2, \n.keylabel3, .keylabel4, .keylabel5, \n.keylabel6, .keylabel7, .keylabel8, \n.keylabel9, .keylabel10, .keylabel11 { \n    font-family: 'Baloo Tamma', cursive;\n}\n\n/* Key Edge Color */\n.keyborder {\n    background-color: transparent !important;\n}\n\n/* Adjust KeyTop height */\n.keytop[style*=\"height: 42px;\"] { \n    height: 38px !important; \n}\n.keytop[style*=\"height: 96px;\"] { \n    height: 92px !important; /* >1u keys */\n}\n\n/* Adjust FrontKey color and font placement  */\n.keylabel9, .keylabel10, .keylabel11 { \n    color: #ffffff !important;\n    margin-top: -3px; /* default: -1px */\n}\n\n/* Adjust background-image (homing) */\n.keylabels {\n  background-position: center 63%; /* default: 90% */\n}",
+    "pcb": false
   },
   [
     {
@@ -395,7 +396,6 @@
       "w": 2.25
     },
     "Walk\n\n\n\n⇧ Shift",
-    "Radio 1\n\n\n\nZ",
     {
       "c": "#FF7043",
       "a": 5,
@@ -405,27 +405,21 @@
       ],
       "n": true
     },
-    "Radio 2\n{health}\n\n\nX",
+    "Radio 1\n{Cross.}\n\n\nZ",
+    {
+      "n": true
+    },
+    "Radio 2\n{Health}\n\n\nX",
     {
       "f": 2,
       "n": true
     },
     "Radio 3\n{Inc.}\n\n\nC",
     {
-      "c": "#EC407A",
-      "fa": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
-      ]
+      "c": "#03A9F4"
     },
-    "Nade\n\n\n\nV\n\ncrosshair",
+    "Radial\nmenu\n\n\nV\n\nRadio",
     {
-      "c": "#03A9F4",
       "f": 3
     },
     "Buy\n\n\n\nB\n\nmenu",
