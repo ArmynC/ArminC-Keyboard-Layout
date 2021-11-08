@@ -8,4 +8,4 @@ Custom gaming keyboard preset with binds for [Keyboard Layout Editor](http://www
 | Raw data      | .json     |
 
 ## License
-[GNU LGPLv3](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))
+[CC0 1.0](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
