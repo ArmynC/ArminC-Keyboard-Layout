@@ -415,10 +415,11 @@
     },
     "Radio 3\n{Inc.}\n\n\nC",
     {
-      "c": "#03A9F4"
+      "n": true
     },
-    "Radial\nmenu\n\n\nV\n\nWeapon",
+    "Radial\n{Guns}\n\n\nV\n\nRadio",
     {
+      "c": "#03A9F4",
       "f": 3
     },
     "Buy\n\n\n\nB\n\nmenu",
