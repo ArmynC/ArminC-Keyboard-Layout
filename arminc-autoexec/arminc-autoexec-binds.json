@@ -252,14 +252,13 @@
     },
     "Toggle\nX-Ray\n\n\nP\n\nSpec",
     {
-      "a": 1
-    },
-    "Radio:\n\n\n\n&nbsp;{\n[&nbsp;\nGo A!",
-    "Radio:\n\n\n\n&nbsp;}\n]&nbsp;\nGo B!",
-    {
       "c": "#ffffff",
+      "a": 3
+    },
+    "\n\n\n\n&nbsp;{\n[&nbsp;",
+    "\n\n\n\n&nbsp;}\n]&nbsp;",
+    {
       "t": "#ffffff",
-      "a": 3,
       "w": 1.5
     },
     "\n\n\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\n\\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
@@ -289,18 +288,18 @@
       "c": "#66BB6A",
       "t": "#212121  \n\n\n\n#ffffff\n#ffffff\n#212121",
       "a": 1,
-      "f": 2
+      "f": 3
     },
-    "Famas\n\n\n\n7\nHome\nGalilAR",
+    "Rifle\n\n\n\n7\nHome\n1",
     {
       "f": 3
     },
-    "M4A4\nAK47\n\n\n8\n↑\nM4A1S",
+    "Rifle\n\n\n\n8\n↑\n2",
     {
       "t": "#212121\n\n\n\n#ffffff\n#ffffff",
-      "a": 3
+      "f": 3
     },
-    "AWP\n\n\n\n9\nPgUp",
+    "Rifle\n\n\n\n9\nPgUp\n3",
     {
       "t": "#212121  \n\n\n\n#ffffff\n\n#212121",
       "a": 5,
@@ -379,19 +378,15 @@
       "t": "#212121  \n\n\n\n#ffffff\n#ffffff\n#212121",
       "a": 1
     },
-    "MP9\n\n\n\n4\n←\nMAC10",
+    "Mid\n1\n\n\n4\n←\nTier",
     {
-      "t": "#212121\n\n\n\n#ffffff",
-      "a": 3,
-      "f": 2
+      "t": "#212121\n\n\n\n#ffffff"
     },
-    "UMP45\n\n\n\n5",
+    "Mid\n2\n\n\n5\n\nTier",
     {
-      "t": "#212121  \n\n\n\n#ffffff\n#ffffff\n#212121",
-      "a": 1,
-      "f": 3
+      "t": "#212121  \n\n\n\n#ffffff\n#ffffff\n#212121"
     },
-    "MAG7\n\n\n\n6\n→\nSawed"
+    "Mid\n3\n\n\n6\n→\nTier"
   ],
   [
     {
@@ -478,20 +473,19 @@
       "x": 1.25,
       "c": "#66BB6A",
       "t": "#212121\n\n\n\n#ffffff\n#ffffff",
-      "a": 3,
+      "a": 1,
       "f": 3
     },
-    "P250\n\n\n\n1\nEnd",
+    "Pistol\n\n\n\n1\nEnd\n2",
     {
-      "t": "#212121  \n\n\n\n#ffffff\n#ffffff\n#212121",
-      "a": 1,
-      "f": 2
+      "t": "#212121  \n\n\n\n#ffffff\n#ffffff\n#212121"
     },
-    "FSeven\nTec\n\n\n2\n↓\nCZ75",
-    "Deagle\n\n\n\n3\nPgDn\nR8",
+    "Pistol\n\n\n\n2\n↓\n3",
+    "Pistol\n\n\n\n3\nPgDn\n4",
     {
       "t": "#212121\n\n\n\n#ffffff",
       "a": 7,
+      "f": 2,
       "h": 2
     },
     "Defuser\n\n\n\nEnter"
