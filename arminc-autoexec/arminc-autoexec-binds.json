@@ -31,19 +31,13 @@
     {
       "x": 0.5
     },
-    "Mute\nteam\n\n\nF5\n\nenemy",
-    "Ignore\n\n\n\nF6\n\nmsg.",
-    "Ignore\n\n\n\nF7\n\nradio",
-    {
-      "c": "#ffffff",
-      "t": "#ffffff",
-      "a": 7
-    },
-    "\n\n\n\nF8",
+    "Clutch\nToggle\n\n\nF5\n\nMode",
+    "Mute\nTeam\n\n\nF6\n\nEnemy",
+    "Ignore\n\n\n\nF7\n\nmsg.",
+    "Ignore\n\n\n\nF8\n\nRadio",
     {
       "x": 0.5,
-      "c": "#EC407A",
-      "t": "#212121"
+      "a": 7
     },
     "Fixer\n\n\n\nF9",
     {
