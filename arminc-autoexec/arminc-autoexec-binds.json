@@ -246,13 +246,19 @@
     },
     "Toggle\nX-Ray\n\n\nP\n\nSpec",
     {
-      "c": "#ffffff",
-      "a": 3
+      "c": "#EC407A",
+      "a": 1
     },
-    "\n\n\n\n&nbsp;{\n[&nbsp;",
-    "\n\n\n\n&nbsp;}\n]&nbsp;",
+    "Visual\n\n\n\n&nbsp;{\n[&nbsp;\nDebug",
     {
+      "f": 2
+    },
+    "Console\n\n\n\n&nbsp;}\n]&nbsp;\nDebug",
+    {
+      "c": "#ffffff",
       "t": "#ffffff",
+      "a": 3,
+      "f": 3,
       "w": 1.5
     },
     "\n\n\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\n\\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
