@@ -264,9 +264,18 @@
     "\n\n\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\n\\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
     {
       "x": 0.25,
-      "a": 7
+      "c": "#66BB6A",
+      "t": "#212121",
+      "a": 5,
+      "f": 2
     },
-    "\n\n\n\nDelete",
+    "Refund\n\n\n\nDelete\n\nAll",
+    {
+      "c": "#ffffff",
+      "t": "#ffffff",
+      "a": 7,
+      "f": 3
+    },
     "\n\n\n\nEnd",
     {
       "c": "#FDD835",
@@ -335,12 +344,13 @@
     },
     "Inspect\n{Smoke}\n\n\nF",
     {
-      "f": 2,
-      "n": true
-    },
-    "Drop\n{Bomb}\n\n\nG",
-    {
       "c": "#03A9F4",
+      "a": 7,
+      "f": 3
+    },
+    "Drop\n\n\n\nG",
+    {
+      "a": 5,
       "f": 3
     },
     "Spray\n\n\n\nH\n\nmenu",
@@ -353,19 +363,24 @@
     {
       "c": "#FDD835",
       "t": "#212121",
-      "a": 5
+      "a": 5,
+      "f": 3
     },
     "Vote\n\n\n\nK\n\nmenu",
     {
-      "c": "#ffffff",
-      "t": "#ffffff",
-      "a": 7
+      "c": "#EC407A",
+      "f": 3
     },
-    "\n\n\n\nL",
+    "Drop\n\n\n\nL\n\nbomb",
     {
+      "c": "#B71C1C",
+      "t": "#ffffff",
       "a": 3
     },
     "\n\n\n\n&nbsp;:\n;&nbsp;",
+    {
+      "c": "#ffffff"
+    },
     "\n\n\n\n&nbsp;\"\n'&nbsp;",
     {
       "a": 7,
@@ -376,15 +391,18 @@
       "x": 3.5,
       "c": "#66BB6A",
       "t": "#212121  \n\n\n\n#ffffff\n#ffffff\n#212121",
-      "a": 1
+      "a": 1,
+      "f": 3
     },
     "Mid\n1\n\n\n4\n←\nTier",
     {
-      "t": "#212121\n\n\n\n#ffffff"
+      "t": "#212121\n\n\n\n#ffffff",
+      "f": 3
     },
     "Mid\n2\n\n\n5\n\nTier",
     {
-      "t": "#212121  \n\n\n\n#ffffff\n#ffffff\n#212121"
+      "t": "#212121  \n\n\n\n#ffffff\n#ffffff\n#212121",
+      "f": 3
     },
     "Mid\n3\n\n\n6\n→\nTier"
   ],
@@ -393,20 +411,19 @@
       "c": "#03A9F4",
       "t": "#212121",
       "a": 7,
+      "f": 3,
       "w": 2.25
     },
     "Walk\n\n\n\n⇧ Shift",
     {
       "c": "#FF7043",
       "a": 5,
-      "fa": [
-        2,
-        2
-      ],
+      "f": 3,
       "n": true
     },
     "Radio 1\n{Cross.}\n\n\nZ",
     {
+      "f": 3,
       "n": true
     },
     "Radio 2\n{Health}\n\n\nX",
