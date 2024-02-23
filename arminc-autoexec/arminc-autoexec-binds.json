@@ -11,61 +11,62 @@
       "c": "#03A9F4",
       "t": "#212121",
       "p": "0",
-      "a": 7
+      "a": 3
     },
-    "Menu\n\n\n\nEsc",
+    "Menu\n\n\n\n&nbsp;ESC\n<small><i>41&nbsp;",
     {
       "x": 1,
       "c": "#ffffff",
       "t": "#ffffff"
     },
-    "\n\n\n\nF1",
-    "\n\n\n\nF2",
-    "\n\n\n\nF3",
+    "\n\n\n\n&nbsp;F1\n<small><i>58&nbsp;",
+    "\n\n\n\n&nbsp;F2\n<small><i>59&nbsp;",
+    "\n\n\n\n&nbsp;F3\n<small><i>60&nbsp;",
     {
       "c": "#EC407A",
       "t": "#212121",
-      "a": 5
+      "a": 1
     },
-    "AFK\n\n\n\nF4\n\nmove",
+    "AFK\n\n\n\n&nbsp;F4\n<small><i>61&nbsp;\nmove",
     {
       "x": 0.5
     },
-    "Clutch\nToggle\n\n\nF5\n\nMode",
-    "Mute\nTeam\n\n\nF6\n\nEnemy",
-    "Ignore\n\n\n\nF7\n\nmsg.",
-    "Ignore\n\n\n\nF8\n\nRadio",
+    "Clutch\nToggle\n\n\n&nbsp;F5\n<small><i>62&nbsp;\nMode",
+    "Mute\nTeam\n\n\n&nbsp;F6\n<small><i>63&nbsp;\nEnemy",
+    "Ignore\n\n\n\n&nbsp;F7\n<small><i>64&nbsp;\nmsg.",
+    "Ignore\n\n\n\n&nbsp;F8\n<small><i>65&nbsp;\nRadio",
     {
       "x": 0.5,
-      "a": 7
+      "a": 3
     },
-    "Fixer\n\n\n\nF9",
+    "Fixer\n\n\n\n&nbsp;F9\n<small><i>66&nbsp;",
     {
       "c": "#ffffff",
       "t": "#ffffff"
     },
-    "\n\n\n\nF10",
-    "\n\n\n\nF11",
+    "\n\n\n\n&nbsp;F10\n<small><i>67&nbsp;",
+    "\n\n\n\n&nbsp;F11\n<small><i>68&nbsp;",
     {
       "c": "#B71C1C"
     },
-    "\n\n\n\nF12",
+    "\n\n\n\n&nbsp;F12\n<small><i>69&nbsp;",
     {
       "x": 0.25
     },
-    "\n\n\n\nPrtScr",
+    "\n\n\n\n<small>PrtScr\n<small><small><i>70&nbsp;",
     {
       "c": "#ffffff"
     },
-    "\n\n\n\nS.Lock",
+    "\n\n\n\n<small>SLock\n<small><small><i>71&nbsp;",
     {
       "c": "#B71C1C"
     },
-    "\n\n\n\nPause",
+    "\n\n\n\n<small>Pause\n<small><small><i>72&nbsp;",
     {
       "x": 0.25,
       "c": "#cccccc",
       "p": "DCS",
+      "a": 7,
       "f": 4,
       "w": 4,
       "h": 1.5,
@@ -82,64 +83,63 @@
       "a": 3,
       "f": 2
     },
-    "Console\n\n\n\n&nbsp;~\n`&nbsp;",
+    "Console\n\n\n\n`&nbsp;~\n<small><i>53&nbsp;",
     {
       "a": 1,
       "f": 3
     },
-    "Rifle\nHeavy\n\n\n&nbsp;!\n1&nbsp;\nSMG",
+    "Rifle\nHeavy\n\n\n1&nbsp;!\n<small><i>30&nbsp;\nSMG",
     {
       "a": 3
     },
-    "Pistol\n\n\n\n&nbsp;@\n2&nbsp;",
+    "Pistol\n\n\n\n2&nbsp;@\n<small><i>31&nbsp;",
     {
       "a": 1
     },
-    "Knife\nHand\n\n\n&nbsp;#\n3&nbsp;\nZeus",
+    "Knife\nHand\n\n\n3&nbsp;#\n<small><i>32&nbsp;\nZeus",
     {
       "a": 3,
       "f": 1
     },
-    "Grenade\n\n\n\n&nbsp;$\n4&nbsp;",
+    "Grenade\n\n\n\n4&nbsp;$\n<small><i>33&nbsp;",
     {
       "a": 1,
       "f": 3
     },
-    "C4\n\n\n\n&nbsp;%\n5&nbsp;\nHealth",
+    "C4\n\n\n\n5&nbsp;%\n<small><i>34&nbsp;\nHealth",
     {
       "a": 3
     },
-    "HE\n\n\n\n&nbsp;^\n6&nbsp;",
-    "Flash\n\n\n\n&nbsp;&\n7&nbsp;",
-    "Smoke\n\n\n\n&nbsp;*\n8&nbsp;",
-    "Decoy\n\n\n\n&nbsp;(\n9&nbsp;",
+    "HE\n\n\n\n6&nbsp;^\n<small><i>35&nbsp;",
+    "Flash\n\n\n\n7&nbsp;&\n<small><i>36&nbsp;",
+    "Smoke\n\n\n\n8&nbsp;*\n<small><i>37&nbsp;",
+    "Decoy\n\n\n\n9&nbsp;&nbsp;(\n<small><i>38&nbsp;",
     {
       "a": 1,
       "f": 2
     },
-    "Inc.\n\n\n\n&nbsp;)\n0&nbsp;\nMolotov",
+    "Inc.\n\n\n\n0&nbsp;&nbsp;)\n<small><i>39&nbsp;\nMolotov",
     {
       "a": 3,
       "f": 3
     },
-    "Zeus\n\n\n\n&nbsp;_\n-&nbsp;",
-    "Medi-Shot\n\n\n\n&nbsp;+\n=&nbsp;",
+    "Zeus\n\n\n\n-&nbsp;_\n<small><i>45&nbsp;",
+    "Medi-Shot\n\n\n\n=&nbsp;+\n<small><i>46&nbsp;",
     {
       "c": "#ffffff",
       "t": "#ffffff",
-      "a": 7,
       "w": 2
     },
-    "\n\n\n\n⟵ Backspace",
+    "\n\n\n\n&nbsp;⟵ Backspace\n<small><i>42&nbsp;",
     {
       "x": 0.25
     },
-    "\n\n\n\nInsert",
-    "\n\n\n\nHome",
+    "\n\n\n\n<small>Insert\n<small><small><i>73&nbsp;",
+    "\n\n\n\n<small>Home\n<small><small><i>74&nbsp;",
     {
       "c": "#FDD835",
       "t": "#212121",
-      "a": 5,
+      "a": 1,
       "fa": [
         2,
         0,
@@ -150,38 +150,38 @@
         2
       ]
     },
-    "Revert\n\n\n\nPgUp\n\nsound",
+    "Revert\n\n\n\n<small>PgUp\n<small><small><i>75&nbsp;\nsound",
     {
       "x": 0.25,
       "c": "#ffffff",
       "t": "#ffffff",
-      "a": 7
+      "a": 3
     },
-    "\n\n\n\nN.Lock",
+    "\n\n\n\n<small>Num\n<small><i>83&nbsp;",
     {
       "c": "#66BB6A",
-      "t": "#212121\n\n\n\n#ffffff",
+      "t": "#212121\n\n\n\n\n\n\n\n\n\n\n#ffffff",
       "f": 3
     },
-    "HE\n\n\n\n/",
+    "HE\n\n\n\n&nbsp;/\n<small><small><i>84&nbsp;",
     {
       "f": 3
     },
-    "Flash\n\n\n\n*",
+    "Flash\n\n\n\n&nbsp;*\n<small><small><i>85&nbsp;",
     {
       "f": 3
     },
-    "Smoke\n\n\n\n-"
+    "Smoke\n\n\n\n&nbsp;-\n<small><small><i>86&nbsp;"
   ],
   [
     {
       "c": "#EC407A",
       "t": "#212121",
-      "a": 5,
+      "a": 1,
       "f": 3,
       "w": 1.5
     },
-    "Scoreboard\nFPS\n\n\nTab <i class='kb kb-Tab-1'></i>\n\nTablet",
+    "Scoreboard\nFPS\n\n\n&nbsp;&nbsp;Tab <i class='kb kb-Tab-1'>\n<small><i>43&nbsp;\nTablet",
     {
       "c": "#FF7043",
       "fa": [
@@ -195,16 +195,16 @@
       ],
       "n": true
     },
-    "Quick\n{HE}\n\n\nQ\n\nswitch",
+    "Quick\n{HE}\n\n\n&nbsp;Q\n<small><i>20&nbsp;\nswitch",
     {
       "c": "#03A9F4",
-      "a": 7,
+      "a": 3,
       "f": 1
     },
-    "Forward\n\n\n\nW",
+    "Forward\n\n\n\n&nbsp;W\n<small><i>26&nbsp;",
     {
       "c": "#FF7043",
-      "a": 5,
+      "a": 1,
       "f": 2,
       "fa": [
         0,
@@ -217,43 +217,42 @@
       ],
       "n": true
     },
-    "Interact\n{Flash}\n\n\nE\n\n(Beep)",
+    "Interact\n{Flash}\n\n\n&nbsp;E\n<small><i>8&nbsp;\n(Beep)",
     {
       "c": "#FDD835"
     },
-    "Reload\n\n\n\nR",
+    "Reload\n\n\n\n&nbsp;R\n<small><i>21&nbsp;",
     {
       "f": 2
     },
-    "Voice\n\n\n\nT\n\n(Comm.)",
+    "Voice\n\n\n\n&nbsp;T\n<small><i>23&nbsp;\n(Comm.)",
     {
       "c": "#03A9F4",
       "f": 3
     },
-    "Global\n\n\n\nY\n\nmsg.",
-    "Team\n\n\n\nU\n\nmsg.",
+    "Global\n\n\n\n&nbsp;Y\n<small><i>28&nbsp;\nmsg.",
+    "Team\n\n\n\n&nbsp;U\n<small><i>24&nbsp;\nmsg.",
     {
       "c": "#ffffff",
       "t": "#ffffff",
-      "a": 7
+      "a": 3
     },
-    "\n\n\n\nI",
-    "\n\n\n\nO",
+    "\n\n\n\n&nbsp;I\n<small><i>12&nbsp;",
+    "\n\n\n\n&nbsp;O\n<small><i>18&nbsp;",
     {
       "c": "#FDD835",
       "t": "#212121",
-      "a": 5
-    },
-    "Toggle\nX-Ray\n\n\nP\n\nSpec",
-    {
-      "c": "#EC407A",
       "a": 1
     },
-    "Visual\n\n\n\n&nbsp;{\n[&nbsp;\nDebug",
+    "Toggle\nX-Ray\n\n\n&nbsp;P\n<small><i>19&nbsp;\nSpec",
+    {
+      "c": "#EC407A"
+    },
+    "Visual\n\n\n\n[&nbsp;&nbsp;{\n<small><i>47&nbsp;\nDebug",
     {
       "f": 2
     },
-    "Console\n\n\n\n&nbsp;}\n]&nbsp;\nDebug",
+    "Console\n\n\n\n]&nbsp;&nbsp;}\n<small><i>48&nbsp;\nDebug",
     {
       "c": "#ffffff",
       "t": "#ffffff",
@@ -261,26 +260,26 @@
       "f": 3,
       "w": 1.5
     },
-    "\n\n\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\n\\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "\n\n\n\n\\&nbsp;&nbsp;|\n<small><i>49&nbsp;",
     {
       "x": 0.25,
       "c": "#66BB6A",
       "t": "#212121",
-      "a": 5,
+      "a": 1,
       "f": 2
     },
-    "Refund\n\n\n\nDelete\n\nAll",
+    "Refund\n\n\n\n<small>Delete\n<small><small><i>76&nbsp;\nAll",
     {
       "c": "#ffffff",
       "t": "#ffffff",
-      "a": 7,
+      "a": 3,
       "f": 3
     },
-    "\n\n\n\nEnd",
+    "\n\n\n\n<small>End\n<small><small><i>77&nbsp;",
     {
       "c": "#FDD835",
       "t": "#212121",
-      "a": 5,
+      "a": 1,
       "fa": [
         2,
         0,
@@ -291,102 +290,96 @@
         2
       ]
     },
-    "Mute\n\n\n\nPgDn\n\nsound",
+    "Mute\n\n\n\n<small>PgDn\n<small><small><i>78&nbsp;\nsound",
     {
       "x": 0.25,
       "c": "#66BB6A",
       "t": "#212121  \n\n\n\n#ffffff\n#ffffff\n#212121",
-      "a": 1,
       "f": 3
     },
-    "Rifle\n\n\n\n7\nHome\n1",
+    "Rifle\n\n\n\n<small>7&nbsp;&nbsp;<i class='fa fa-home'>\n<small><small><i>95&nbsp;\n1",
     {
       "f": 3
     },
-    "Rifle\n\n\n\n8\n↑\n2",
+    "Rifle\n\n\n\n<small>8&nbsp;&nbsp;↑\n<small><small><i>96&nbsp;\n2",
     {
       "t": "#212121\n\n\n\n#ffffff\n#ffffff",
       "f": 3
     },
-    "Rifle\n\n\n\n9\nPgUp\n3",
+    "Rifle\n\n\n\n<small>9&nbsp;PgUp\n<small><small><i>97&nbsp;\n3",
     {
-      "t": "#212121  \n\n\n\n#ffffff\n\n#212121",
-      "a": 5,
+      "t": "#212121  \n\n\n\n\n\n#212121\n\n\n\n\n#ffffff",
       "f": 2,
       "h": 2
     },
-    "Inc.\n\n\n\n+\n\nMolotov"
+    "Inc.\n\n\n\n&nbsp;+\n<small><small><i>87&nbsp;\nMolotov"
   ],
   [
     {
       "c": "#ffffff",
       "t": "#ffffff",
-      "a": 7,
+      "a": 3,
       "f": 3,
       "w": 1.75
     },
-    "\n\n\n\n⇪ Caps Lock",
+    "\n\n\n\n&nbsp;&nbsp;⇪ Caps Lock\n<small><i>57&nbsp;",
     {
       "c": "#03A9F4",
       "t": "#212121"
     },
-    "Left\n\n\n\nA",
-    "Back\n\n\n\nS",
-    "Right\n\n\n\nD",
+    "Left\n\n\n\n&nbsp;A\n<small><i>4&nbsp;",
+    "Back\n\n\n\n&nbsp;S\n<small><i>22&nbsp;",
+    "Right\n\n\n\n&nbsp;D\n<small><i>7&nbsp;",
     {
       "c": "#FF7043",
-      "a": 5,
+      "a": 1,
       "fa": [
         2,
         2
       ],
       "n": true
     },
-    "Inspect\n{Smoke}\n\n\nF",
+    "Inspect\n{Smoke}\n\n\n&nbsp;F\n<small><i>9&nbsp;",
     {
       "c": "#03A9F4",
-      "a": 7,
+      "a": 3,
       "f": 3
     },
-    "Drop\n\n\n\nG",
+    "Drop\n\n\n\n&nbsp;G\n<small><i>10&nbsp;",
     {
-      "a": 5,
+      "a": 1,
       "f": 3
     },
-    "Spray\n\n\n\nH\n\nmenu",
+    "Spray\n\n\n\n&nbsp;H\n<small><i>11&nbsp;\nmenu",
     {
       "c": "#ffffff",
       "t": "#ffffff",
-      "a": 7
+      "a": 3
     },
-    "\n\n\n\nJ",
+    "\n\n\n\n&nbsp;J\n<small><i>13&nbsp;",
     {
       "c": "#FDD835",
       "t": "#212121",
-      "a": 5,
+      "a": 1,
       "f": 3
     },
-    "Vote\n\n\n\nK\n\nmenu",
+    "Vote\n\n\n\n&nbsp;K\n<small><i>14&nbsp;\nmenu",
     {
       "c": "#EC407A",
       "f": 3
     },
-    "Drop\n\n\n\nL\n\nbomb",
+    "Drop\n\n\n\n&nbsp;L\n<small><i>15&nbsp;\nbomb",
     {
-      "c": "#B71C1C",
+      "c": "#ffffff",
       "t": "#ffffff",
       "a": 3
     },
-    "\n\n\n\n&nbsp;:\n;&nbsp;",
+    "\n\n\n\n;&nbsp;&nbsp;:\n<small><i>51&nbsp;",
+    "\n\n\n\n'&nbsp;&nbsp;\"\n<small><i>52&nbsp;",
     {
-      "c": "#ffffff"
-    },
-    "\n\n\n\n&nbsp;\"\n'&nbsp;",
-    {
-      "a": 7,
       "w": 2.25
     },
-    "\n\n\n\n↵ Enter",
+    "\n\n\n\n\n<small><i>40&nbsp;\n\n\n\n\n\n↵ Enter",
     {
       "x": 3.5,
       "c": "#66BB6A",
@@ -394,64 +387,71 @@
       "a": 1,
       "f": 3
     },
-    "Mid\n1\n\n\n4\n←\nTier",
+    "Mid\n1\n\n\n<small>4&nbsp;&nbsp;←\n<small><small><i>92&nbsp;\nTier",
     {
       "t": "#212121\n\n\n\n#ffffff",
       "f": 3
     },
-    "Mid\n2\n\n\n5\n\nTier",
+    "Mid\n2\n\n\n<small>5\n<small><small><i>93&nbsp;\nTier",
     {
       "t": "#212121  \n\n\n\n#ffffff\n#ffffff\n#212121",
       "f": 3
     },
-    "Mid\n3\n\n\n6\n→\nTier"
+    "Mid\n3\n\n\n<small>6&nbsp;&nbsp;→\n<small><small><i>94&nbsp;\nTier"
   ],
   [
     {
       "c": "#03A9F4",
       "t": "#212121",
-      "a": 7,
+      "a": 3,
       "f": 3,
       "w": 2.25
     },
-    "Walk\n\n\n\n⇧ Shift",
+    "Walk\n\n\n\n\n<small><i>225&nbsp;\n\n\n\n\n\n⇧ Shift",
     {
       "c": "#FF7043",
-      "a": 5,
-      "f": 3,
+      "a": 1,
+      "f2": 2,
       "n": true
     },
-    "Radio 1\n{Cross.}\n\n\nZ",
+    "Radio 1\n{Cross.}\n\n\n&nbsp;Z\n<small><i>29&nbsp;",
     {
-      "f": 3,
+      "fa": [
+        0,
+        2,
+        2,
+        2,
+        0,
+        0,
+        2
+      ],
       "n": true
     },
-    "Radio 2\n{Health}\n\n\nX",
+    "Radio 2\n{Health}\n\n\n&nbsp;X\n<small><i>27&nbsp;",
     {
       "f": 2,
       "n": true
     },
-    "Radio 3\n{Inc.}\n\n\nC",
+    "Radio 3\n{Inc.}\n\n\n&nbsp;C\n<small><i>6&nbsp;",
     {
       "n": true
     },
-    "Radial\n{Guns}\n\n\nV\n\nRadio",
+    "Radial\n{Guns}\n\n\n&nbsp;V\n<small><i>25&nbsp;\nRadio",
     {
       "c": "#03A9F4",
       "f": 3
     },
-    "Buy\n\n\n\nB\n\nmenu",
+    "Buy\n\n\n\n&nbsp;B\n<small><i>5&nbsp;\nmenu",
     {
       "c": "#EC407A"
     },
-    "Jump\n*1*\n\n\nN\n\nthrow",
+    "Jump\n*1*\n\n\n&nbsp;N\n<small><i>17&nbsp;\nthrow",
     {
       "c": "#03A9F4"
     },
-    "Team\n\n\n\nM\n\nmenu",
+    "Team\n\n\n\n&nbsp;M\n<small><i>16&nbsp;\nmenu",
     {
       "c": "#FDD835",
-      "a": 1,
       "fa": [
         0,
         0,
@@ -462,121 +462,119 @@
         1
       ]
     },
-    "Exec:\n\n\n\n&nbsp;<\n,&nbsp;\nautoexec",
+    "Exec:\n\n\n\n,&nbsp;&nbsp;<\n<small><i>54&nbsp;\nautoexec",
     {
       "f": 3
     },
-    "Exec:\n\n\n\n&nbsp;>\n.&nbsp;\nconfig",
+    "Exec:\n\n\n\n.&nbsp;&nbsp;>\n<small><i>55&nbsp;\nconfig",
     {
       "c": "#ffffff",
       "t": "#ffffff",
       "a": 3
     },
-    "\n\n\n\n&nbsp;?\n/&nbsp;",
+    "\n\n\n\n/&nbsp;&nbsp;?\n<small><i>56&nbsp;",
     {
-      "a": 7,
       "w": 2.75
     },
-    "\n\n\n\n⇧ Shift",
+    "\n\n\n\n\n<small><i>229&nbsp;\n\n\n\n\n\n⇧ Shift",
     {
       "x": 1.25,
       "c": "#FDD835",
       "t": "#212121",
-      "a": 5,
+      "a": 1,
       "f": 2
     },
-    "Move\n\n\n\n↑\n\nforward",
+    "Move\n\n\n\n\n<small><small><i>82&nbsp;\nforward\n\n\n\n\n↑",
     {
       "x": 1.25,
       "c": "#66BB6A",
       "t": "#212121\n\n\n\n#ffffff\n#ffffff",
-      "a": 1,
       "f": 3
     },
-    "Pistol\n\n\n\n1\nEnd\n2",
+    "Pistol\n\n\n\n<small>1&nbsp;End\n<small><small><i>89&nbsp;\n2",
     {
       "t": "#212121  \n\n\n\n#ffffff\n#ffffff\n#212121"
     },
-    "Pistol\n\n\n\n2\n↓\n3",
-    "Pistol\n\n\n\n3\nPgDn\n4",
+    "Pistol\n\n\n\n<small>2&nbsp;&nbsp;↓\n<small><small><i>90&nbsp;\n3",
+    "Pistol\n\n\n\n<small>3&nbsp;PgDn\n<small><small><i>91&nbsp;\n4",
     {
-      "t": "#212121\n\n\n\n#ffffff",
-      "a": 7,
+      "t": "#212121\n\n\n\n\n\n\n\n\n\n\n#ffffff",
+      "a": 3,
       "f": 2,
       "h": 2
     },
-    "Defuser\n\n\n\nEnter"
+    "Defuser\n\n\n\n<small>&nbsp;Enter\n<small><small><i>88&nbsp;"
   ],
   [
     {
       "c": "#03A9F4",
       "t": "#212121",
-      "a": 5,
+      "a": 1,
       "f": 3,
       "w": 1.25
     },
-    "Crouch\n\n\n\nCtrl\n\n(Duck)",
+    "Crouch\n\n\n\n&nbsp;Ctrl\n<small><i>224&nbsp;\n(Duck)",
     {
       "c": "#B71C1C",
       "t": "#ffffff",
-      "a": 7,
+      "a": 3,
       "w": 1.25
     },
-    "\n\n\n\n<i class='fa fa-windows'></i>",
+    "\n\n\n\n&nbsp;<i class='fa fa-linux'>\n<small><i>227&nbsp;",
     {
       "c": "#EC407A",
       "t": "#212121",
-      "a": 5,
+      "a": 1,
       "fa": [
         2
       ],
       "w": 1.25
     },
-    "(Hold for)\nbinds\n\n\nAlt\n\nSecond",
+    "(Hold for)\nbinds\n\n\n&nbsp;Alt\n<small><i>226&nbsp;\nSecond",
     {
       "c": "#03A9F4",
       "p": "SPACE",
       "w": 6.25
     },
-    "\n*1*\n\n\nSpace\n\nJump",
+    "\n*1*\n\n\n\n<small><i>44&nbsp;\nJump\n\n\n\n\nSpace",
     {
       "c": "#ffffff",
       "t": "#ffffff",
-      "a": 7,
+      "a": 3,
       "w": 1.25
     },
-    "\n\n\n\nAlt",
+    "\n\n\n\nAlt\n<small><i>230&nbsp;",
     {
       "c": "#B71C1C",
       "p": "R4",
       "w": 1.25
     },
-    "\n\n\n\n<i class='fa fa-windows'></i>",
+    "\n\n\n\n&nbsp;&nbsp;<i class='fa fa-linux'>\n<small><i>231&nbsp;",
     {
       "w": 1.25
     },
-    "\n\n\n\n<i class='kb kb-Hamburger-Menu'></i>",
+    "\n\n\n\n&nbsp;<i class='kb kb-Hamburger-Menu'></i>\n<small><i>118&nbsp;",
     {
       "c": "#ffffff",
       "w": 1.25
     },
-    "\n\n\n\nCtrl",
+    "\n\n\n\n&nbsp;Ctrl\n<small><i>228&nbsp;",
     {
       "x": 0.25,
       "c": "#FDD835",
       "t": "#212121",
-      "a": 5,
+      "a": 1,
       "f": 3
     },
-    "Rotate\nleft\n\n\n←\n\nto",
+    "Rotate\nleft\n\n\n\n<small><small><i>80&nbsp;\nto\n\n\n\n\n←",
     {
       "f": 3
     },
-    "Move\n\n\n\n↓\n\nback",
+    "Move\n\n\n\n\n<small><small><i>81&nbsp;\nback\n\n\n\n\n↓",
     {
       "f": 3
     },
-    "Rotate\nright\n\n\n→\n\nto",
+    "Rotate\nright\n\n\n\n<small><small><i>79&nbsp;\nto\n\n\n\n\n→",
     {
       "x": 0.25,
       "c": "#66BB6A",
@@ -585,11 +583,11 @@
       "f": 3,
       "w": 2
     },
-    "Vest & Helmet\n\n\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0\nIns&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "Vest & Helmet\n\n\n\n<small>0&nbsp;Ins\n<small><small><i>98&nbsp;",
     {
       "f": 3
     },
-    "Vest\n\n\n\n&nbsp;.\nDel&nbsp;"
+    "Vest\n\n\n\n<small>.&nbsp;Del\n<small><small><i>99&nbsp;"
   ],
   [
     {
@@ -605,34 +603,45 @@
     },
     "<p style=\"text-align: center;\"><i class='fa fa-map-signs'></i> LEGEND</strong></p> <hr> <p><br></p>",
     {
-      "x": 1.5,
+      "x": 1,
       "a": 7,
-      "f": 3,
+      "f": 2,
       "w": 4.5,
       "h": 2,
       "d": true
     },
     "<p><i class='fa fa-graduation-cap'></i> To use the <strong>second keys</strong>, hold <strong>left ALT</strong> or <strong>MOUSE5</strong> button and press at the same time the desired key, marked with <strong>orange</strong> and <b>homing</b> texture.</p>",
     {
-      "x": 1.5,
+      "x": 1,
       "f": 3,
       "w": 4,
       "h": 2,
       "d": true
     },
-    "<p><i class='fa fa-graduation-cap'></i> Binds marked with the <strong>same set of numbers</strong> and <strong>asterisk</strong> need to be <strong>pressed at the same time</strong>.</p>",
+    "<p><i class='fa fa-graduation-cap'></i> Binds marked with the <strong>same set of numbers</strong> and <strong>asterisk</strong> need to be <strong>pressed at the same time</strong>.</p>"
+  ],
+  [
     {
-      "x": 1.5,
-      "f": 3,
-      "w": 5,
-      "h": 2,
+      "y": -0.8499999999999996,
+      "x": 20,
+      "w": 2.25,
+      "h": 1.5,
       "d": true
     },
     "<i class='fa fa-external-link'></i> github.com/ArmynC/ArminC-AutoExec"
   ],
   [
     {
-      "y": -0.5,
+      "y": -0.75,
+      "x": 15.75,
+      "w": 3.75,
+      "d": true
+    },
+    "<p><i class='fa fa-graduation-cap'></i> The keyboard layout has the <strong>standard keys</strong> alongside their each corresponding <strong>scancode</strong>.</p>"
+  ],
+  [
+    {
+      "y": -0.9000000000000004,
       "x": 5,
       "f": 9,
       "w": 0.5,
@@ -641,14 +650,21 @@
     },
     "<i class='fa fa-ellipsis-v'></i>",
     {
-      "x": 5.5,
+      "x": 4.75,
       "w": 0.5,
       "h": 0.75,
       "d": true
     },
     "<i class='fa fa-ellipsis-v'></i>",
     {
-      "x": 5,
+      "x": 4.5,
+      "w": 0.5,
+      "h": 0.75,
+      "d": true
+    },
+    "<i class='fa fa-ellipsis-v'></i>",
+    {
+      "x": 3.75,
       "w": 0.5,
       "h": 0.75,
       "d": true
