@@ -3,8 +3,7 @@
     "backcolor": "#303030",
     "name": "ArminC AutoExec Binds",
     "author": "ArminC",
-    "pcb": false,
-    "css": "/* Custom Google Font */\n@import url('https://fonts.googleapis.com/css?family=Arvo|Baloo+Tamma');\n\n/* Key Cap Parts */\n.keylabel0, .keylabel1, .keylabel2, \n.keylabel3, .keylabel4, .keylabel5, \n.keylabel6, .keylabel7, .keylabel8, \n.keylabel9, .keylabel10, .keylabel11 { \n    font-family: 'Baloo Tamma', cursive;\n}\n\n/* Key Edge Color */\n.keyborder {\n    background-color: transparent !important;\n}\n\n/* Adjust KeyTop height */\n.keytop[style*=\"height: 42px;\"] { \n    height: 38px !important; \n}\n.keytop[style*=\"height: 96px;\"] { \n    height: 92px !important; /* >1u keys */\n}\n\n/* Adjust FrontKey color and font placement  */\n.keylabel9, .keylabel10, .keylabel11 { \n    color: #ffffff !important;\n    margin-top: -3px; /* default: -1px */\n}\n\n/* Adjust background-image (homing) */\n.keylabels {\n  background-position: center 63%; /* default: 90% */\n}"
+    "pcb": false
   },
   [
     {
@@ -160,7 +159,7 @@
     "\n\n\n\n<small>Num\n<small><i>83&nbsp;",
     {
       "c": "#66BB6A",
-      "t": "#212121\n\n\n\n\n\n\n\n\n\n\n#ffffff",
+      "t": "#212121",
       "f": 3
     },
     "HE\n\n\n\n&nbsp;/\n<small><small><i>84&nbsp;",
@@ -176,7 +175,6 @@
   [
     {
       "c": "#EC407A",
-      "t": "#212121",
       "a": 1,
       "f": 3,
       "w": 1.5
@@ -308,7 +306,7 @@
     },
     "Rifle\n\n\n\n<small>9&nbsp;PgUp\n<small><small><i>97&nbsp;\n3",
     {
-      "t": "#212121  \n\n\n\n\n\n#212121\n\n\n\n\n#ffffff",
+      "t": "#212121  \n\n\n\n\n\n#212121",
       "f": 2,
       "h": 2
     },
@@ -347,20 +345,17 @@
     },
     "Drop\n\n\n\n&nbsp;G\n<small><i>10&nbsp;",
     {
+      "c": "#EC407A",
       "a": 1,
       "f": 3
     },
-    "Spray\n\n\n\n&nbsp;H\n<small><i>11&nbsp;\nmenu",
+    "Jump\n\n\n\n&nbsp;H\n<small><i>11&nbsp;\nThrow",
     {
-      "c": "#ffffff",
-      "t": "#ffffff",
-      "a": 3
+      "f": 3
     },
-    "\n\n\n\n&nbsp;J\n<small><i>13&nbsp;",
+    "Run\nThrow\n\n\n&nbsp;J\n<small><i>13&nbsp;\nJump",
     {
       "c": "#FDD835",
-      "t": "#212121",
-      "a": 1,
       "f": 3
     },
     "Vote\n\n\n\n&nbsp;K\n<small><i>14&nbsp;\nmenu",
@@ -370,11 +365,15 @@
     },
     "Drop\n\n\n\n&nbsp;L\n<small><i>15&nbsp;\nbomb",
     {
+      "c": "#03A9F4",
+      "f": 3
+    },
+    "Spray\n\n\n\n;&nbsp;&nbsp;:\n<small><i>51&nbsp;\nmenu",
+    {
       "c": "#ffffff",
       "t": "#ffffff",
       "a": 3
     },
-    "\n\n\n\n;&nbsp;&nbsp;:\n<small><i>51&nbsp;",
     "\n\n\n\n'&nbsp;&nbsp;\"\n<small><i>52&nbsp;",
     {
       "w": 2.25
@@ -411,20 +410,19 @@
     {
       "c": "#FF7043",
       "a": 1,
-      "f2": 2,
+      "fa": [
+        0,
+        2,
+        0,
+        0,
+        2,
+        2
+      ],
       "n": true
     },
     "Radio 1\n{Cross.}\n\n\n&nbsp;Z\n<small><i>29&nbsp;",
     {
-      "fa": [
-        0,
-        2,
-        2,
-        2,
-        0,
-        0,
-        2
-      ],
+      "f2": 2,
       "n": true
     },
     "Radio 2\n{Health}\n\n\n&nbsp;X\n<small><i>27&nbsp;",
@@ -443,18 +441,23 @@
     },
     "Buy\n\n\n\n&nbsp;B\n<small><i>5&nbsp;\nmenu",
     {
-      "c": "#EC407A"
+      "c": "#EC407A",
+      "fa": [
+        2,
+        2
+      ]
     },
-    "Jump\n*1*\n\n\n&nbsp;N\n<small><i>17&nbsp;\nthrow",
+    "Manual\nThrow\n\n\n&nbsp;N\n<small><i>17&nbsp;\nJump",
     {
-      "c": "#03A9F4"
+      "c": "#03A9F4",
+      "f": 3
     },
     "Team\n\n\n\n&nbsp;M\n<small><i>16&nbsp;\nmenu",
     {
       "c": "#FDD835",
       "fa": [
         0,
-        0,
+        2,
         0,
         0,
         0,
@@ -498,7 +501,7 @@
     "Pistol\n\n\n\n<small>2&nbsp;&nbsp;↓\n<small><small><i>90&nbsp;\n3",
     "Pistol\n\n\n\n<small>3&nbsp;PgDn\n<small><small><i>91&nbsp;\n4",
     {
-      "t": "#212121\n\n\n\n\n\n\n\n\n\n\n#ffffff",
+      "t": "#212121",
       "a": 3,
       "f": 2,
       "h": 2
@@ -508,7 +511,6 @@
   [
     {
       "c": "#03A9F4",
-      "t": "#212121",
       "a": 1,
       "f": 3,
       "w": 1.25
@@ -534,13 +536,14 @@
     {
       "c": "#03A9F4",
       "p": "SPACE",
+      "a": 3,
+      "f": 3,
       "w": 6.25
     },
-    "\n*1*\n\n\n\n<small><i>44&nbsp;\nJump\n\n\n\n\nSpace",
+    "Jump\n\n\n\n\n<small><i>44&nbsp;\n\n\n\n\n\nSpace",
     {
       "c": "#ffffff",
       "t": "#ffffff",
-      "a": 3,
       "w": 1.25
     },
     "\n\n\n\nAlt\n<small><i>230&nbsp;",
@@ -618,22 +621,22 @@
       "h": 2,
       "d": true
     },
-    "<p><i class='fa fa-graduation-cap'></i> Binds marked with the <strong>same set of numbers</strong> and <strong>asterisk</strong> need to be <strong>pressed at the same time</strong>.</p>"
+    ""
   ],
   [
     {
-      "y": -0.8499999999999996,
-      "x": 20,
-      "w": 2.25,
-      "h": 1.5,
+      "y": -0.75,
+      "x": 16.75,
+      "w": 4.75,
+      "h": 1.25,
       "d": true
     },
     "<i class='fa fa-external-link'></i> github.com/ArmynC/ArminC-AutoExec"
   ],
   [
     {
-      "y": -0.75,
-      "x": 15.75,
+      "y": -0.8499999999999996,
+      "x": 11,
       "w": 3.75,
       "d": true
     },
@@ -657,14 +660,7 @@
     },
     "<i class='fa fa-ellipsis-v'></i>",
     {
-      "x": 4.5,
-      "w": 0.5,
-      "h": 0.75,
-      "d": true
-    },
-    "<i class='fa fa-ellipsis-v'></i>",
-    {
-      "x": 3.75,
+      "x": 4.25,
       "w": 0.5,
       "h": 0.75,
       "d": true
